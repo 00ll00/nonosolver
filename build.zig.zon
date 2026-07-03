@@ -1,0 +1,13 @@
+.{
+    .name = .nonosolver,
+    .version = "0.0.1",
+    .dependencies = .{
+        .dvui = .{
+            .url = "git+https://github.com/david-vanderson/dvui?ref=main#07d510db8e9310172bb4a91a13309ff82e322a06",
+            .hash = "dvui-0.5.0-dev-AQFJmYXU9gD-ISak0ThV_OscVn4tn7gz95iBolDEqQQD",
+        },
+    },
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x638d01d1830b453,
+}
